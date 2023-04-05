@@ -1,6 +1,6 @@
 # Hi 👋, I am Vincent 😊
 
-## I'm a data engineer with a passion for building scalable and robust data solutions. I specialize in creating efficient data pipelines that enable businesses to make data-driven decisions.
+## I'm a data engineer with a passion for building scalable and robust data solutions.
 
 ### About me:
 
